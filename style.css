@@ -1,0 +1,150 @@
+body {
+  background-color: #eaf6f6;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: Sacramento, cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: Montserrat, serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 5% auto;
+}
+
+h3 {
+  color: #11999E;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+p {
+  font-family: Montserrat, serif;
+  font-size: 17px;
+}
+
+hr {
+  /* /* border-style: none;
+  border-top-style: dotted;
+  /* border-color: grey;
+  border-width: 0.5rem; */
+  /* width: 4.375rem;
+  border: dotted grey 0.5rem; */
+  border: dotted grey 0.5rem;
+  border-bottom: none;
+  width: 4.375rem;
+  margin: 100px auto;
+}
+
+.mountain{
+margin: 5% auto 5% auto;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.my-profile {
+  width: 25%
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-left: 30px;
+}
+
+.my-skills1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Design-skills{
+    margin-top: 3px;
+
+}
+.my-skills2 {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border-radius: 20px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 19px;
+  text-decoration: none;
+  text-align: center;
+  margin: 7% auto 10% auto;
+}
+
+.btn:hover {
+  background: teal;
+}
+
+.bottom-container {
+  width: auto;
+  height: 150px;
+  background-color: #66BFBF
+}
+
+.footer-link {
+  color: #11999e;
+  display: inline-block;
+  font-family: Montserrat;
+  font-weight: bolder;
+  margin-top: 75px;
+  width: 5.62rem;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color:#eaf6f6
+}
+
+/* OR  USE THIS STILL GONNA WORK */
+/* a:hover:{
+  color: #eaf6f6;} */
+
+
+.copyright{
+  color: #eaf6f6;
+}
+
